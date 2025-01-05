@@ -50,6 +50,8 @@ sudo docker build  -t atuljkamble/flask-app .
 
 sudo docker images
 
+sudo docker run -p 5000:5000 -it atuljkamble/flask-app
+
 sudo docker push atuljkamble/flask-app
 
 
