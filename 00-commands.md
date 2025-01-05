@@ -1,3 +1,4 @@
+```
 cd Downloads
 chmod 400 key.pem
 ssh -i key.pem azureuser@4.240.104.149
@@ -51,6 +52,6 @@ sudo docker images
 sudo docker push atuljkamble/flask-app
 
 
-
+```
 
 
