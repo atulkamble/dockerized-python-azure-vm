@@ -15,6 +15,7 @@ python --version
 
 sudo apt install python3-pip -y
 pip install flask
+sudo apt install python3-flask
 pip3 show flask
 
 pip install --upgrade pip
