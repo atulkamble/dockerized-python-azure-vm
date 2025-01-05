@@ -23,6 +23,9 @@ pip install --upgrade pip
 sudo apt install git -y
 git --version
 
+git clone https://github.com/atulkamble/dockerized-python-azure-vm.git
+cd dockerized-python-azure-vm
+
 sudo apt install docker.io -y
 sudo usermod -aG docker $USER
 
